@@ -4,7 +4,7 @@
 
 some useful methods for python interpreter
 
-# features
+## features
 
 - Colored object method lister (ListObjectMethods())
 - auto library installation when use, e.g. googletrans, OpenCV, PIL or numpy
@@ -19,3 +19,8 @@ add the `mytool.py` to your python library directory or current path
 ```python
 from mytool impoort *
 ```
+
+
+## ライセンス
+
+MIT License
